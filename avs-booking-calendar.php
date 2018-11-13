@@ -6,7 +6,7 @@
 /*
 Plugin Name: AVS.rent Booking Calendar
 Plugin URI: https://phcom.de
-Description: Connect AVS.rent booking services with Wordpress. Please modify all texts in customizer. News: v.0.9.6 remove iFrame integration to improve user experience.<br><small><strong>Roadmap:</strong> v.1.0 using AVS-token to get all rental vehicle and locations automaticly.</small>
+Description: Connect AVS.rent booking services with Wordpress. Please modify all texts in customizer. News: v.0.9.6 remove iFrame integration to improve user experience.<br><small><strong>Roadmap:</strong> v.1 using AVS-token to get all rental vehicle and locations automaticly.</small>
 Author: Andy Gellermann for PHCOM
 Version: 0.9.6
 Author URI: https://phcom.de
